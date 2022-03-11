@@ -1,4 +1,4 @@
-# DFANet_code
+# DFANet code
 
 This is an implementation of DFANet. The original authors of the code are https://github.com/huaifeng1993 and https://github.com/jandylin. The code was modified and adapted to be trained in a Container using an RTX 2080 Ti.
 
